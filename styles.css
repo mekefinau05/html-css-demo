@@ -1,0 +1,33 @@
+* {
+    font-family: monospace;
+}
+h1 {
+    background-color: brown;
+    color: white;
+}
+
+h1, h2, h3 {
+    background-color: blue;
+}
+
+/* div {
+    background-image: url('https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg');
+    height: 200px;
+    width: 400px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+} */
+
+div {
+    width: 200px; 
+    height : 200px;
+    background-color: green;
+    border: blue 20px solid;
+    padding: 20px;
+    margin: 40px;
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+}
